@@ -25,7 +25,7 @@ _Last updated: 11/21/2025• Contact: anithajagadeeshwork@gmail.com
 - Encryption in transit and at rest; access limited to authorized personnel.
 
 ## Your choices
-- Request access or deletion via <youremail@example.com>.
+- Request access or deletion via anithajagadeeshwork@gmail.com.
 - Disconnecting LinkedIn in the app revokes our access immediately.
 
 ## Changes
